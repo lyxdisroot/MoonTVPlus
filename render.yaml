@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: moontvplus
+    name: kan
     runtime: image
     plan: free
     image:
